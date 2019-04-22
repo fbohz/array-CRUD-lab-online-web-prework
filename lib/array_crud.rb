@@ -1,5 +1,5 @@
 def create_an_empty_array
-  ['hi', 2, 3, 4]
+  ['hi','y', 'fda', 'r']
 end
 
 def create_an_array
